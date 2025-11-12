@@ -1,7 +1,7 @@
 # Pixelate by Dominant Color
 
-Pixelates an image by blocks of chosen size, painting each block with its dominant color.
-\* Dominant color selection ignores the outer edge of each block to avoid misrepresentative colors.
+Pixelates an image by blocks of chosen size, painting each block with its dominant color, instead of using the average color like a normal pixelate filter.
+Dominant color selection ignores the outer edge of each block to avoid misrepresentative colors.
 
 Optionally overlays a grid for visual debugging.
 
