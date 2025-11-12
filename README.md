@@ -7,10 +7,12 @@ Optionally overlays a grid for visual debugging.
 
 ## Example
 Input:
-![Input](examples/in.jpg)
+
+<img src="/example/in.jpg" alt="Input" width="200"/>
 
 Output:
-![Output](examples/out.jpg)
+
+<img src="/example/out.jpg" alt="Output" width="200"/>
 
 ## Uses
 
