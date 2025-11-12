@@ -5,6 +5,13 @@ Dominant color selection ignores the outer edge of each block to avoid misrepres
 
 Optionally overlays a grid for visual debugging.
 
+## Example
+Input:
+![Input](examples/in.jpg)
+
+Output:
+![Output](examples/out.jpg)
+
 ## Uses
 
 - Correcting artifacts to pixel-art images introduced by compression, scaling,....
