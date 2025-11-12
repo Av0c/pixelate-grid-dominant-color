@@ -5,7 +5,14 @@ Dominant color selection ignores the outer edge of each block to avoid misrepres
 
 Optionally overlays a grid for visual debugging.
 
+## Uses
+
+- Correcting artifacts to pixel-art images introduced by compression, scaling,....
+- Turning AI-generated pixel-"art" images into pixel-perfect canvas for further editing.  
+
 ## Usage
+
+First determine the pixel size, this should be as accurate as possible for the output to be meaningful, use any image editor/viewer that supports showing a grid, and start resizing that grid (grid size must be uniform in both direction) until pixels fit neatly into each cell.
 
 ```bash
 pip install pillow
